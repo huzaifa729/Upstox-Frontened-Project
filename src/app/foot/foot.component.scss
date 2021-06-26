@@ -1,0 +1,80 @@
+.non{
+    max-width: 66%;
+    margin: auto;
+    padding-top: 104px;
+    height: 555px;
+}
+.xw{
+    font-size: 40px;
+}
+
+.icon{
+    transform: rotate(180deg);
+    transition: 0.2s ease-in-out;
+}
+
+.down.icon{
+    transition: 0.2s ease-in-out;
+
+}
+
+//  .heading{
+//     //  padding: 5px 42px;
+//     cursor: pointer;
+//     color: blue;
+//     //   margin-left: 34px;
+//     //  margin-top: 14px;
+//     //  max-width: 87%;
+//      font-size: 19px;
+//      font-family: 'Courier New', Courier, monospace;
+// }
+//  .heading-content{     
+//      transition: 4s ease-in-out;
+//      padding: 10px;
+//  }
+
+.heading{
+    margin-top: 44px;
+    padding: 13px 6px;
+    font-size: 23px;
+    height: 33px;
+
+  cursor: pointer;
+   
+}
+.sio{
+    background-color: transparent;
+    border-bottom: 1px solid #e0e0e0;
+    border-bottom-color: rgb(224, 224, 224);
+ 
+}
+
+.bio{
+    background-color: transparent;
+    border-bottom: 1px solid #e0e0e0;
+    border-bottom-color: rgb(224, 224, 224); 
+}
+.nio{
+    background-color: transparent;
+    border-bottom: 1px solid #e0e0e0;
+    border-bottom-color: rgb(224, 224, 224);
+}
+.heading-content{
+    font-size: 20px;
+    color: #000;
+    padding: 0px 6px;
+    letter-spacing: 1px;
+  
+}
+
+i{
+    font-size: 14px;
+}
+.city{
+    color: darkblue;
+    padding-top: 50px;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+

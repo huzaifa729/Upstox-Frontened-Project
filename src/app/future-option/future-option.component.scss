@@ -1,0 +1,60 @@
+.jio{
+    padding-top: 70px;
+    display: flex;
+   margin: auto;
+   max-width:   60%;
+}
+
+li{
+    list-style: none;
+    padding: 3px 29px;
+    font-size: 22px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link{
+    border: 1px solid rgb(212, 208, 208);
+    border-radius: 93px ;
+}
+
+.dis{
+    display: flex;
+    margin: auto;
+    margin-left: 333px;
+    padding-top: 44px;
+}
+.sin{
+    margin-left: 24px;
+ 
+}
+.sin img{
+    height: 280px;
+}
+
+.po{
+    padding-top: 54px;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2px;
+    
+}
+
+.po i{
+    font-size: 18px;
+    padding: 2px 8px;
+}
+
+.po p{
+    margin-left: 12px;
+}
+
+.sr{
+    font-size: 27px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
